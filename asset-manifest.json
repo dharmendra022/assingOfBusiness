@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/assingOfBusiness/static/css/main.df86d162.chunk.css",
+    "main.js": "/assingOfBusiness/static/js/main.9eeecd4e.chunk.js",
+    "main.js.map": "/assingOfBusiness/static/js/main.9eeecd4e.chunk.js.map",
+    "runtime-main.js": "/assingOfBusiness/static/js/runtime-main.0d2205d6.js",
+    "runtime-main.js.map": "/assingOfBusiness/static/js/runtime-main.0d2205d6.js.map",
+    "static/js/2.968eff26.chunk.js": "/assingOfBusiness/static/js/2.968eff26.chunk.js",
+    "static/js/2.968eff26.chunk.js.map": "/assingOfBusiness/static/js/2.968eff26.chunk.js.map",
+    "static/js/3.d68c9565.chunk.js": "/assingOfBusiness/static/js/3.d68c9565.chunk.js",
+    "static/js/3.d68c9565.chunk.js.map": "/assingOfBusiness/static/js/3.d68c9565.chunk.js.map",
+    "index.html": "/assingOfBusiness/index.html",
+    "static/css/main.df86d162.chunk.css.map": "/assingOfBusiness/static/css/main.df86d162.chunk.css.map",
+    "static/js/2.968eff26.chunk.js.LICENSE.txt": "/assingOfBusiness/static/js/2.968eff26.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/assingOfBusiness/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d2205d6.js",
+    "static/js/2.968eff26.chunk.js",
+    "static/css/main.df86d162.chunk.css",
+    "static/js/main.9eeecd4e.chunk.js"
+  ]
+}
