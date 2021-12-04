@@ -26,13 +26,15 @@ function Business() {
         <>
             {
                 user.map((curElem) => {
-                    console.log(user);
+                    console.log(curElem);
                     return (
                         <>
 
                             <div >
-                                <h3>{curElem.title}</h3>
+                                <h3>{curElem.title} <span className="color">{curElem.labels[0] && curElem.labels[0].name}</span></h3>
+                                <h4 className="id">#{curElem.user.id}</h4>
                                 <hr />
+
 
                             </div>
                         </>
